@@ -1,3 +1,9 @@
+<style>
+ h1,h2{
+  border-bottom:0;
+ }
+</style>
+
 # 1. 前言
 
 我们的万亿美元市值更加美好
