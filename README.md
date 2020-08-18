@@ -10,4 +10,4 @@
 
 How! 请阅读邀请函：
 
-[让我们以六倍于拼多多的精英力量，四年突破500亿美元市值，四年实现亿万富豪梦想！](https://github.com/aomoxo/letter)
+[让我们以六倍于拼多多的精英力量，四年突破500亿美元市值，四年实现亿万富豪梦想！](https://github.com/aomoxo/letter/blob/master/README.md)
