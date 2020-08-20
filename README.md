@@ -6,15 +6,15 @@
 
 ## 爱梦想方案目录
 
-### [第一部分：前言，我们的万亿美元市值更加美好]()
+### [第一部分：前言，我们的万亿美元市值更加美好](https://github.com/aomoxo/aomoxo-plan/tree/master/docs/chapter-one)
 
-### [第二部分：精英持股计划，用史上最多股份造就史上最多亿万富豪]()
+### [第二部分：精英持股计划，用史上最多股份造就史上最多亿万富豪](https://github.com/aomoxo/aomoxo-plan/tree/master/docs/chapter-two)
 
-### [第三部分：全新公司架构， 完全基于互联网的公司框架，让全球人才加入简单容易]()
+### [第三部分：全新公司架构， 完全基于互联网的公司框架，让全球人才加入简单容易](https://github.com/aomoxo/aomoxo-plan/tree/master/docs/chapter-three)
 
-### [第四部分：重写游戏规则，零成本创业模式和高效融资计划]()
+### [第四部分：重写游戏规则，零成本创业模式和高效融资计划](https://github.com/aomoxo/aomoxo-plan/tree/master/docs/chapter-four)
 
-### [第五部分：我们的使命，成千上万个不可思议的创新项目改变世界]()
+### [第五部分：我们的使命，成千上万个不可思议的创新项目改变世界](https://github.com/aomoxo/aomoxo-plan/tree/master/docs/chapter-five)
 
 
 ## 让人才成为万亿美元市值最大受益者
