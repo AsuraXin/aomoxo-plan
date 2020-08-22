@@ -42,41 +42,41 @@
 
 由于昨晚为了解决一个工作上的问题而通宵达旦，此时您要大睡一场，让自己在美梦中放松休息。
 
-![清晨美梦](https://gblobscdn.gitbook.com/assets%2F-MBZN1x8F8KZbGhD4Paj%2F-MBble-OzcbfmeaDaH-n%2F-MBboGO883dM6iiI3qC_%2F%E8%83%8C%E6%99%AF%20%E6%8B%B7%E8%B4%9D%205.png?alt=media&token=8b5f422e-afc4-4132-ac60-6c134a6534e4)
+![清晨美梦](images/sleeping.jpg)
 
 - 网球场上潇洒的身影。
 
 手握球拍正在某个网球场潇洒挥动，因为您已经习惯于每天工作之前让自己全身充满活力。
 
-![网球场上潇洒的身影](https://gblobscdn.gitbook.com/assets%2F-MBZN1x8F8KZbGhD4Paj%2F-MBble-OzcbfmeaDaH-n%2F-MBboGO9nPCOGj4Vrn2z%2F%E8%83%8C%E6%99%AF%20%E6%8B%B7%E8%B4%9D%206.png?alt=media&token=a20f0abc-2550-4b48-8938-5a412aa3f877)
+![网球场上潇洒的身影](images/tennis.jpg)
 
 - 陪伴嗷嗷待哺的幼儿。
 
 也许您是一个刚刚休完产假的年轻妈妈，由您在家陪伴，孩子的童年生活将是多么幸福啊。
 
-![陪伴嗷嗷待哺的幼儿](https://gblobscdn.gitbook.com/assets%2F-MBZN1x8F8KZbGhD4Paj%2F-MBble-OzcbfmeaDaH-n%2F-MBboGOBnS10ywA1D-HY%2F%E8%83%8C%E6%99%AF.png?alt=media&token=655848da-857d-464c-92f7-a13266911681)
+![陪伴嗷嗷待哺的幼儿](images/baby.jpg)
 
 - 星巴克的咖啡。
 
  或者您正在离家不远的星巴克的某个角落，一边品尝着美味的咖啡，一边在笔记本上快速的书写程序，因为一个新的环境格外让您兴奋……。
 
-![星巴克的咖啡](https://gblobscdn.gitbook.com/assets%2F-MBZN1x8F8KZbGhD4Paj%2F-MBble-OzcbfmeaDaH-n%2F-MBboGOAT4X8Y95qRUwa%2F%E8%83%8C%E6%99%AF%20%E6%8B%B7%E8%B4%9D.png?alt=media&token=2a2468ed-73ea-43d7-a96b-437f07103bfc)
+![星巴克的咖啡](images/coffee.jpg)
 
 - 乡下美丽的小屋。 
 
 向往乡下生活的您，现在是时候完全离开那喧嚣的都市生活，回到安静美丽的乡间，一面享受着田园生活，一面大胆的追求远大梦想。
 
-![乡下美丽的小屋](https://gblobscdn.gitbook.com/assets%2F-MBZN1x8F8KZbGhD4Paj%2F-MBble-OzcbfmeaDaH-n%2F-MBboGO3ZYsJ22-TidvQ%2F%E8%83%8C%E6%99%AF%20%E6%8B%B7%E8%B4%9D%202.png?alt=media&token=573bdfca-12a8-4e07-9ae9-5c477230d053)
+![乡下美丽的小屋](images/cottage.jpg)
 
 - 从北京到东京，从伦敦到纽约。 
 
 您的生活就是如此的浪漫，您可以到自己真正喜欢的城市生活，不管是在哪个国家，而不会因此放弃自己喜欢的工作。
 
-![从北京到东京，从伦敦到纽约](https://gblobscdn.gitbook.com/assets%2F-MBZN1x8F8KZbGhD4Paj%2F-MBble-OzcbfmeaDaH-n%2F-MBboGO6eVK9Hea1Oo-l%2F%E8%83%8C%E6%99%AF%20%E6%8B%B7%E8%B4%9D%203.png?alt=media&token=7182d55f-a772-4ec3-9f20-6b47f3a76c6e)
+![从北京到东京，从伦敦到纽约](images/city.jpg)
 
 想想，这一切将是多么美好!
 
-![这一切将是多么美好](https://gblobscdn.gitbook.com/assets%2F-MBZN1x8F8KZbGhD4Paj%2F-MBble-OzcbfmeaDaH-n%2F-MBboGO7YV6-cm0ZLc09%2F%E8%83%8C%E6%99%AF%20%E6%8B%B7%E8%B4%9D%204.png?alt=media&token=560cc326-4e9c-4754-85a0-c31b43e43b6a)
+![这一切将是多么美好](images/cool.jpg)
 
 
 ## 摒弃传统公司沉重的外壳 ，爱梦想将飞得更轻快，飞得更高更远。
