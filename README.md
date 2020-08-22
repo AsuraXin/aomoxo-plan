@@ -22,7 +22,7 @@
 
 这是一个从未有过的创新：数万精英一起创造万亿美元市值，一起分享万亿美元市值，也一起成为亿万富豪。
 
-方案包括五部分:
+## 方案包括五部分:
 
 ### [第一部分：前言，我们的万亿美元市值更加美好](https://github.com/aomoxo/aomoxo-plan/tree/master/docs/chapter-one)
 
