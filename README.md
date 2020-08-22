@@ -2,7 +2,7 @@
 
 **全球第一个万亿美元市值方案**
 
-![37200名IT精英将为了共同的亿万富豪梦想而携手拼搏](https://cdn.jsdelivr.net/gh/aomoxo/aomoxo-plan@latest/images/team-members.jpg
+![37200名IT精英将为了共同的亿万富豪梦想而携手拼搏](https://cdn.jsdelivr.net/gh/aomoxo/aomoxo-plan@latest/images/team-members.jpg)
 
 爱梦想方案，即爱梦想公司打造另一个苹果，另一个微软，另一个亚马逊，另一个谷歌，另一个万亿美元市值公司的行动方案，其核心是“用史上最多股份，造就史上最多亿万富豪”。
 
