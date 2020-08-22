@@ -2,22 +2,7 @@
 
 **全球第一个万亿美元市值方案**
 
-![37200名IT精英将为了共同的亿万富豪梦想而携手拼搏](/images/team-members.jpg)
-
-## 爱梦想方案目录
-
-### [第一部分：前言，我们的万亿美元市值更加美好](https://github.com/aomoxo/aomoxo-plan/tree/master/docs/chapter-one)
-
-### [第二部分：精英持股计划，用史上最多股份造就史上最多亿万富豪](https://github.com/aomoxo/aomoxo-plan/tree/master/docs/chapter-two)
-
-### [第三部分：全新公司架构， 完全基于互联网的公司框架，让全球人才加入简单容易](https://github.com/aomoxo/aomoxo-plan/tree/master/docs/chapter-three)
-
-### [第四部分：重写游戏规则，零成本创业模式和高效融资计划](https://github.com/aomoxo/aomoxo-plan/tree/master/docs/chapter-four)
-
-### [第五部分：我们的使命，成千上万个不可思议的创新项目改变世界](https://github.com/aomoxo/aomoxo-plan/tree/master/docs/chapter-five)
-
-
-## 让人才成为万亿美元市值最大受益者
+![37200名IT精英将为了共同的亿万富豪梦想而携手拼搏](https://cdn.jsdelivr.net/aomoxo/aomoxo-plan/images/team-members.jpg)
 
 爱梦想方案，即爱梦想公司打造另一个苹果，另一个微软，另一个亚马逊，另一个谷歌，另一个万亿美元市值公司的行动方案，其核心是“用史上最多股份，造就史上最多亿万富豪”。
 
@@ -37,21 +22,14 @@
 
 数万精英一起创造万亿美元市值，一起分享万亿美元市值，也一起成为亿万富豪。
 
-## 为十亿数十亿美元梦想而疯狂
+## 爱梦想方案目录
 
->爱梦想200名十亿美元级成员，包括十名副总裁，是爱梦想方案精英持股计划，第一个20%股份所要激励的精英群体，是爱梦想团队加入最早、持股最高的成员，也必然是爱梦想数万精英中带兵作战的将帅。爱梦想万亿美元市值事业和未来成千上万个不可思议的改变世界项目，就要由这200名“将帅”来主导。
+### [第一部分：前言，我们的万亿美元市值更加美好](https://github.com/aomoxo/aomoxo-plan/tree/master/docs/chapter-one)
 
-当十名副总裁各就各位，当200名十亿美元级成员全部聚齐，当爱梦想万亿美元市值行动顺利启动，这些最早行动起来的团队成员，也将最早锁定成功：
+### [第二部分：精英持股计划，用史上最多股份造就史上最多亿万富豪](https://github.com/aomoxo/aomoxo-plan/tree/master/docs/chapter-two)
 
-市值（美元）|每位副总身价（美元）|每位十亿美元级成员身价（美元）
----|:---:|:---:
-100亿|3000万|1000万
-500亿|1.5亿|5000万
-1000亿|3亿|1亿
-5000亿|15亿|5亿
-10000亿|30亿|10亿
+### [第三部分：全新公司架构， 完全基于互联网的公司框架，让全球人才加入简单容易](https://github.com/aomoxo/aomoxo-plan/tree/master/docs/chapter-three)
 
-爱梦想精英持股计划，要让每一位率先为爱梦想万亿美元市值而拼搏的精英得到最大回报。
+### [第四部分：重写游戏规则，零成本创业模式和高效融资计划](https://github.com/aomoxo/aomoxo-plan/tree/master/docs/chapter-four)
 
-
-
+### [第五部分：我们的使命，成千上万个不可思议的创新项目改变世界](https://github.com/aomoxo/aomoxo-plan/tree/master/docs/chapter-five)
