@@ -2,7 +2,7 @@
 
 **全球第一个万亿美元市值方案**
 
-![37200名IT精英将为了共同的亿万富豪梦想而携手拼搏](https://gblobscdn.gitbook.com/assets%2F-MBZN1x8F8KZbGhD4Paj%2F-MFBGssTTBGzJv1i1uyQ%2F-MFBKErpMnsirebyvaBM%2Fteam-600.jpg?alt=media&token=d89f0bc8-0978-428c-a6f7-3e1626af2498)
+![37200名IT精英将为了共同的亿万富豪梦想而携手拼搏](/images/team-members.jpg)
 
 ## 爱梦想方案目录
 
