@@ -22,7 +22,7 @@
 
 数万精英一起创造万亿美元市值，一起分享万亿美元市值，也一起成为亿万富豪。
 
-## 爱梦想方案目录
+OK，现在就请您开始阅读爱梦想方案的全部内容吧！
 
 ### [第一部分：前言，我们的万亿美元市值更加美好](https://github.com/aomoxo/aomoxo-plan/tree/master/docs/chapter-one)
 
