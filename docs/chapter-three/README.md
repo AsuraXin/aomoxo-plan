@@ -8,7 +8,7 @@
 
 除了象征性的注册地址，在我们生活的星球上，没有哪栋建筑能够代表爱梦想。爱梦想甚至没有一间属于公司的办公室，没有各式各样的办公设备。这里看不到为员工准备的一个个高度集成的工作台；这里没有用于接待客户的宽阔厅堂；没有精美的服务设施；也没有花重金打造的豪华员工休息区；更没有可以用于提供免费午餐的现代化烹饪设施……。
 
-“爱梦想大厦”是用互联网络这个现代社会最为时尚的建筑材料和最为先进的技术建设起来的全球化建筑，只要互联网达到的地方，都有大门敞开着，都可以以最快的速度步入。 
+“爱梦想大厦”是用互联网络这个现代社会最为时尚的建筑材料和最为先进的技术建设起来的全球化建筑，只要互联网达到的地方，都有大门敞开着，都可以以最快的速度步入。
 
 >我们所创建的不是一家普普通通的公司，永远也不要是！
 >
@@ -42,41 +42,41 @@
 
 由于昨晚为了解决一个工作上的问题而通宵达旦，此时您要大睡一场，让自己在美梦中放松休息。
 
-![清晨美梦](../../images/sleeping.jpg)
+![清晨美梦](https://cdn.jsdelivr.net/gh/aomoxo/aomoxo-plan@latest/images/sleeping.jpg)
 
 - 网球场上潇洒的身影。
 
 手握球拍正在某个网球场潇洒挥动，因为您已经习惯于每天工作之前让自己全身充满活力。
 
-![网球场上潇洒的身影](../../images/tennis.jpg)
+![网球场上潇洒的身影](https://cdn.jsdelivr.net/gh/aomoxo/aomoxo-plan@latest/images/tennis.jpg)
 
 - 陪伴嗷嗷待哺的幼儿。
 
 也许您是一个刚刚休完产假的年轻妈妈，由您在家陪伴，孩子的童年生活将是多么幸福啊。
 
-![陪伴嗷嗷待哺的幼儿](../../images/baby.jpg)
+![陪伴嗷嗷待哺的幼儿](https://cdn.jsdelivr.net/gh/aomoxo/aomoxo-plan@latest/images/baby.jpg)
 
 - 星巴克的咖啡。
 
  或者您正在离家不远的星巴克的某个角落，一边品尝着美味的咖啡，一边在笔记本上快速的书写程序，因为一个新的环境格外让您兴奋……。
 
-![星巴克的咖啡](../../images/coffee.jpg)
+![星巴克的咖啡](https://cdn.jsdelivr.net/gh/aomoxo/aomoxo-plan@latest/images/coffee.jpg)
 
-- 乡下美丽的小屋。 
+- 乡下美丽的小屋。
 
 向往乡下生活的您，现在是时候完全离开那喧嚣的都市生活，回到安静美丽的乡间，一面享受着田园生活，一面大胆的追求远大梦想。
 
-![乡下美丽的小屋](../../images/cottage.jpg)
+![乡下美丽的小屋](https://cdn.jsdelivr.net/gh/aomoxo/aomoxo-plan@latest/images/cottage.jpg)
 
-- 从北京到东京，从伦敦到纽约。 
+- 从北京到东京，从伦敦到纽约。
 
 您的生活就是如此的浪漫，您可以到自己真正喜欢的城市生活，不管是在哪个国家，而不会因此放弃自己喜欢的工作。
 
-![从北京到东京，从伦敦到纽约](../../images/city.jpg)
+![从北京到东京，从伦敦到纽约](https://cdn.jsdelivr.net/gh/aomoxo/aomoxo-plan@latest/images/city.jpg)
 
 想想，这一切将是多么美好!
 
-![这一切将是多么美好](../../images/cool.jpg)
+![这一切将是多么美好](https://cdn.jsdelivr.net/gh/aomoxo/aomoxo-plan@latest/images/cool.jpg)
 
 
 ## 摒弃传统公司沉重的外壳 ，爱梦想将飞得更轻快，飞得更高更远。
