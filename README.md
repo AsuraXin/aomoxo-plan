@@ -1,3 +1,5 @@
+>声明：所有邀请加入aomoxo组织的朋友，请首先阅读[邀请函](https://github.com/aomoxo/founders-letter)。
+
 # 简介
 
 **让人才成为万亿美元市值最大受益者**
