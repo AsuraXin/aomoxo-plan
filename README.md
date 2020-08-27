@@ -1,4 +1,4 @@
->声明：所有受邀加入aomoxo组织的朋友，请首先阅读[邀请函](https://github.com/aomoxo/founders-letter)（我们已经向您在github公开的邮箱发送本邀请函）。
+>声明：所有受邀加入aomoxo组织的朋友，请首先阅读[邀请函](https://github.com/aomoxo/founders-letter)，在github公开的邮箱的朋友，我们也已经向您的邮箱发送了本邀请函，请查收）。
 
 # 简介
 
