@@ -3,7 +3,7 @@
 # 简介
 
 **让人才成为万亿美元市值最大受益者**
-![aomoxo plan](https://cdn.jsdelivr.net/gh/aomoxo/aomoxo-plan@latest/images/aomoxo-plan.png)
+
 
 ![37200名IT精英将为了共同的亿万富豪梦想而携手拼搏](https://cdn.jsdelivr.net/gh/aomoxo/aomoxo-plan@latest/images/team-members.jpg)
 
