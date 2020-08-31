@@ -40,7 +40,7 @@
 
 爱梦想方案包括五部分。
 
-[第一部分：前言，我们的万亿美元市值更加美好](https://github.com/aomoxo/aomoxo-plan/tree/master/docs/chapter-one)
+[第一部分：前言，让人才成为万亿美元市值最大受益者](https://github.com/aomoxo/aomoxo-plan/tree/master/docs/chapter-one)
 
 [第二部分：精英持股计划，用史上最多股份造就史上最多亿万富豪](https://github.com/aomoxo/aomoxo-plan/tree/master/docs/chapter-two)
 
